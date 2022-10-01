@@ -1,9 +1,9 @@
 ### Olá, sou Rafael Oliveira  👨‍💻
 
-- Cursando Sistemas para Internet, atualmente no 6º período. 📍(Institudo Federal da Paraíba - IFPB) 
+- Sistemas para Internet. 📍(Institudo Federal da Paraíba - IFPB) 
 - Trabalho atualmente com as tecnologias: Django e React.
 - Sou fascinado por tecnologia por ser uma área que mais me desafia e me encanta ao mesmo tempo.
-- 📚 Atualmente aprendendo sobre a stack Node.js | ReactJS | React Native.
+- 📚 Atualmente aprendendo sobre a stack Node.js | ReactJS.
 
 
 ### Contato
